@@ -1,12 +1,10 @@
 # Connor Fisbeck
 # UWYO COSC 1010
-# Submission Date
+# 11/10/2024
 # Lab 08
 # Lab Section: 15
 # Sources, people worked with, help given to:
-# your
-# comments
-# here
+# got help from jhett
 
 
 # Write a function that will properly check strings to see if they are an int or float, and convert them if so
